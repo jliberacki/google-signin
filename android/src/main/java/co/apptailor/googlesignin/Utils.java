@@ -1,7 +1,7 @@
 package co.apptailor.googlesignin;
 
 import android.net.Uri;
-import androidx.annotation.NonNull;
+import android.support.annotation.NonNull;
 
 import com.facebook.react.bridge.Arguments;
 import com.facebook.react.bridge.ReadableArray;
